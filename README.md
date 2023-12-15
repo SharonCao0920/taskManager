@@ -1,4 +1,4 @@
-# taskManager
+# Simple Task Manager
 
 This project is taking user input of tasks to do and save it in MangoDB Database.
 
