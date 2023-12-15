@@ -33,6 +33,7 @@ To enhance the Task Manager, more to be done:
 * Delete task
 * Send email when new task created
 * Email reminder when cloase to due date
+  
 ...
 
 
