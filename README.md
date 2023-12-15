@@ -11,7 +11,8 @@
 * Display all tasks in database
 
 ## Webpage Display
-![image](https://github.com/SharonCao0920/taskManager/assets/54694766/b7f68556-83ec-465c-95a1-6bf6e118fc0f)
+
+![image](https://github.com/SharonCao0920/taskManager/assets/54694766/6a5f1dc3-f620-48e1-b734-baaef768e53c)
 
 ![image](https://github.com/SharonCao0920/taskManager/assets/54694766/152e3bd0-0c2b-4685-b0a6-7b969f8da826)
 
