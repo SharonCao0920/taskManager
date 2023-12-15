@@ -6,6 +6,8 @@
 * Add new data into the database
 
 ## Client
+GitHub for Front-end
+[https://github.com/SharonCao0920/taskManager-front](https://github.com/SharonCao0920/taskManager-front)
 
 * Get user input for tasks
 * Display all tasks in database
