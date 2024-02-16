@@ -1,7 +1,7 @@
 
 import {MongoClient} from 'mongodb';
 // const {MongoClient, ConnectionCheckOutStartedEvent} = require('mongodb');   
-const mongoUrl = 'mongodb+srv://SharonCao0920:Sharon1990@sfbu.cirid9w.mongodb.net/';
+const mongoUrl = '';
 let myDatabase;
 
 export const connectToDatabase = async () => { 
